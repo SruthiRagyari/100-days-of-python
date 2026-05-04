@@ -44,7 +44,7 @@ This repo documents every single project built during the **100 Days of Python**
 | 003 | [Treasure Island](./Day003_Treasure_island/)                         | Conditionals, if/elif/else             | ✅     |
 | 004 | [Rock Paper Scissors](./Day004_Rock_Paper_Scissors/)                 | Lists, Random Module                   | ✅     |
 | 005 | [Password Generator](./Day005_Password_Generator/)                   | Loops, Modules, Random                 | ✅     |
-| 006 | [Reeborgs World Maze](./Day006_Reeborgs_Maze/)                       | Functions, While Loops                 | ✅     |
+| 006 | [Reeborgs World Maze](./Day006_Reeborgs_World_Maze/)                 | Functions, While Loops                 | ✅     |
 | 007 | [Hangman](./Day007_Hangman/)                                         | Functions, Lists, Strings              | ⬜     |
 | 008 | [Caesar Cipher](./Day008_Caesar_Cipher/)                             | Functions, Arguments, Parameters       | ⬜     |
 | 009 | [Secret Auction](./Day009_Secret_Auction/)                           | Dictionaries, Nesting                  | ⬜     |
@@ -182,3 +182,4 @@ DayXXX_Project_Name/
 <p align="center">
   Built with consistency — one project at a time 🚀
 </p>
+```
