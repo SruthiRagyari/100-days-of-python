@@ -42,7 +42,7 @@ This repo documents every single project built during the **100 Days of Python**
 | 001 | [Band Name Generator](./Day001_Band_Name_Generator/)                 | Variables, Input, String Manipulation  | ✅     |
 | 002 | [Tip Calculator](./Day002_Tip_Calculator/)                           | Data Types, f-Strings, Math Operations | ✅     |
 | 003 | [Treasure Island](./Day003_Treasure_island/)                         | Conditionals, if/elif/else             | ✅     |
-| 004 | [Rock Paper Scissors](./Day004_Rock_Paper_Scissors/)                 | Lists, Random Module                   | ⬜     |
+| 004 | [Rock Paper Scissors](./Day004_Rock_Paper_Scissors/)                 | Lists, Random Module                   | ✅     |
 | 005 | [Password Generator](./Day005_Password_Generator/)                   | Loops, Modules, Random                 | ⬜     |
 | 006 | [Reeborg's World Maze](./Day006_Reeborg_Maze/)                       | Functions, While Loops                 | ⬜     |
 | 007 | [Hangman](./Day007_Hangman/)                                         | Functions, Lists, Strings              | ⬜     |
