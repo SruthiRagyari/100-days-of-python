@@ -46,7 +46,7 @@ This repo documents every single project built during the **100 Days of Python**
 | 005 | [Password Generator](./Day005_Password_Generator/)                   | Loops, Modules, Random                 | ✅     |
 | 006 | [Reeborgs World Maze](./Day006_Reeborgs_World_Maze/)                 | Functions, While Loops                 | ✅     |
 | 007 | [Hangman](./Day007_Hangman/)                                         | Functions, Lists, Strings              | ✅     |
-| 008 | [Caesar Cipher](./Day008_Caesar_Cipher/)                             | Functions, Arguments, Parameters       | ⬜     |
+| 008 | [Caesar Cipher](./Day008_Caesar_Cipher/)                             | Functions, Arguments, Parameters       | ✅     |
 | 009 | [Secret Auction](./Day009_Secret_Auction/)                           | Dictionaries, Nesting                  | ⬜     |
 | 010 | [Calculator](./Day010_Calculator/)                                   | Functions, Recursion                   | ⬜     |
 | 011 | [Blackjack](./Day011_Blackjack/)                                     | OOP Basics, Game Logic                 | ⬜     |
