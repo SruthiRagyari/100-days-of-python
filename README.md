@@ -7,23 +7,12 @@
 </p>
 
 <p align="center">
-  A structured 100-day Python learning journey — progressing from fundamentals to advanced projects with clean code and documented notes.
+  A structured 100-day Python learning journey — progressing from fundamentals to advanced projects, one project per day.
 </p>
 
 ---
 
-## 🎯 What is This?
-
-This repo documents every single project built during the **100 Days of Python** challenge. Each folder contains:
-
-- 📄 `main.py` — the working Python code
-- 📝 `notes.md` — key concepts learned + what the project does
-
-> **Goal:** Go from Python basics to advanced real-world projects — one project per day, no skipping.
-
----
-
-## 🗺️ Topics Covered
+## 🗺️ Roadmap
 
 | Phase            | Days   | Topics                                                |
 | ---------------- | ------ | ----------------------------------------------------- |
@@ -35,7 +24,7 @@ This repo documents every single project built during the **100 Days of Python**
 
 ---
 
-## 📅 Progress Tracker
+## 📅 Progress
 
 | Day | Project                                                              | Topics                                 | Status |
 | --- | -------------------------------------------------------------------- | -------------------------------------- | ------ |
@@ -140,35 +129,7 @@ This repo documents every single project built during the **100 Days of Python**
 | 099 | [Space Race Analysis](./Day099_Space_Race/)                          | Data Analysis Capstone                 | ⬜     |
 | 100 | [100 Days Final Capstone](./Day100_Capstone/)                        | 🏆 Final Boss Project                  | ⬜     |
 
-> ✅ Done &nbsp;&nbsp; 🔄 In Progress &nbsp;&nbsp; ⬜ Not Started
-
----
-
-## 🛠️ How to Run Any Project
-
-```bash
-# Clone the repo
-git clone https://github.com/SruthiRagyari/100-days-of-python.git
-cd 100-days-of-python
-
-# Navigate to any day
-cd Day001_Band_Name_Generator
-
-# Run it
-python main.py
-```
-
-> **Python version:** 3.10+ recommended
-
----
-
-## 📂 Structure
-
-```
-DayXXX_Project_Name/
-├── main.py       ← Working Python code
-└── notes.md      ← Concepts learned + project summary
-```
+> ✅ Done &nbsp;&nbsp; ⬜ Not Started
 
 ---
 
@@ -179,7 +140,4 @@ DayXXX_Project_Name/
 
 ---
 
-<p align="center">
-  Built with consistency — one project at a time 🚀
-</p>
-```
+<p align="center">Built with consistency — one project at a time 🚀</p>
