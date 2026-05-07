@@ -6,7 +6,7 @@ A maze-solving algorithm for Reeborg's World that navigates any maze layout auto
 
 ## Concepts Used
 
-- `def` — define custom functions since Reeborg only has `turn_left()` built-in
+- `def` — Define custom functions since Reeborg only has `turn_left()` built-in
 - `turn_right()` — built by calling `turn_left()` three times
 - `while` loop — keeps running until `at_goal()` is `True`
 - Conditionals — `if / elif / else` to decide which direction to move
