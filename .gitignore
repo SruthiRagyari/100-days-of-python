@@ -7,11 +7,9 @@ __pycache__/
 # Virtual Environment
 venv/
 env/
-.env
 .venv/
 
 # IDE / Editor
-.vscode/
 .idea/
 
 # OS
@@ -19,8 +17,11 @@ env/
 Thumbs.db
 
 # Secrets & API Keys
+.env
+.env.*
+*.env
 secrets.py
-config.py
+api_keys.py
 
 # Jupyter
 .ipynb_checkpoints/
