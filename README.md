@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Progress-9%20%2F%20100-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-11%20%2F%20100-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 </p>
 
@@ -48,8 +48,8 @@ This repo documents every single project built during the **100 Days of Python**
 | 007 | [Hangman](./Day007_Hangman/)                                         | Functions, Lists, Strings              | ✅     |
 | 008 | [Caesar Cipher](./Day008_Caesar_Cipher/)                             | Functions, Arguments, Parameters       | ✅     |
 | 009 | [Secret Auction](./Day009_Secret_Auction/)                           | Dictionaries, Nesting                  | ✅     |
-| 010 | [Calculator](./Day010_Calculator/)                                   | Functions, Recursion                   | ⬜     |
-| 011 | [Blackjack](./Day011_Blackjack/)                                     | OOP Basics, Game Logic                 | ⬜     |
+| 010 | [Calculator](./Day010_Calculator/)                                   | Functions, Recursion                   | ✅     |
+| 011 | [Blackjack](./Day011_Blackjack/)                                     | OOP Basics, Game Logic                 | ✅     |
 | 012 | [Number Guessing Game](./Day012_Number_Guessing/)                    | Scope, Namespaces                      | ⬜     |
 | 013 | [Debugging Practice](./Day013_Debugging/)                            | Debugging Techniques                   | ⬜     |
 | 014 | [Higher Lower Game](./Day014_Higher_Lower/)                          | Consolidation Project                  | ⬜     |
