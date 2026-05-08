@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Progress-11%20%2F%20100-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-13%20%2F%20100-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 </p>
 
@@ -39,8 +39,8 @@
 | 009 | [Secret Auction](./Day009_Secret_Auction/)                           | Dictionaries, Nesting                  | ✅     |
 | 010 | [Calculator](./Day010_Calculator/)                                   | Functions, Recursion                   | ✅     |
 | 011 | [Blackjack](./Day011_Blackjack/)                                     | OOP Basics, Game Logic                 | ✅     |
-| 012 | [Number Guessing Game](./Day012_Number_Guessing/)                    | Scope, Namespaces                      | ⬜     |
-| 013 | [Debugging Practice](./Day013_Debugging/)                            | Debugging Techniques                   | ⬜     |
+| 012 | [Number Guessing Game](./Day012_Number_Guessing/)                    | Scope, Namespaces                      | ✅     |
+| 013 | [Debugging Practice](./Day013_Debugging/)                            | Debugging Techniques                   | ✅     |
 | 014 | [Higher Lower Game](./Day014_Higher_Lower/)                          | Consolidation Project                  | ⬜     |
 | 015 | [Coffee Machine (Procedural)](./Day015_Coffee_Machine/)              | Procedural Programming                 | ⬜     |
 | 016 | [Coffee Machine (OOP)](./Day016_Coffee_Machine_OOP/)                 | Classes, Objects                       | ⬜     |
