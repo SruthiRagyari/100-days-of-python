@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Progress-15%20%2F%20100-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-16git%20%2F%20100-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 </p>
 
@@ -43,7 +43,7 @@
 | 013 | [Debugging Practice](./Day013_Debugging/)                            | Debugging Techniques                   | ✅     |
 | 014 | [Higher Lower Game](./Day014_Higher_Lower/)                          | Consolidation Project                  | ✅     |
 | 015 | [Coffee Machine (Procedural)](./Day015_Coffee_Machine/)              | Procedural Programming                 | ✅     |
-| 016 | [Coffee Machine (OOP)](./Day016_Coffee_Machine_OOP/)                 | Classes, Objects                       | ⬜     |
+| 016 | [Coffee Machine (OOP)](./Day016_Coffee_Machine_OOP/)                 | Classes, Objects                       | ✅     |
 | 017 | [Quiz Game](./Day017_Quiz_Game/)                                     | OOP, API Data                          | ⬜     |
 | 018 | [Hirst Painting](./Day018_Hirst_Painting/)                           | Turtle, Tuples, Colorgram              | ⬜     |
 | 019 | [Etch-A-Sketch](./Day019_Etch_A_Sketch/)                             | Turtle, Events, State                  | ⬜     |
