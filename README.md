@@ -46,7 +46,7 @@
 | 016 | [Coffee Machine (OOP)](./Day016_Coffee_Machine_OOP/)                 | Classes, Objects                       | ✅     |
 | 017 | [Quiz Game](./Day017_Quiz_Game/)                                     | OOP, API Data                          | ✅     |
 | 018 | [Hirst Painting](./Day018_Hirst_Painting/)                           | Turtle, Tuples, Colorgram              | ✅     |
-| 019 | [Etch-A-Sketch](./Day019_Etch_A_Sketch/)                             | Turtle, Events, State                  | ⬜     |
+| 019 | [Turtle Race](./Day019_Turtle_Race/)                                 | Turtle, Events, State                  | ✅     |
 | 020 | [Snake Game Part 1](./Day020_Snake_Game_1/)                          | Turtle, OOP                            | ⬜     |
 | 021 | [Snake Game Part 2](./Day021_Snake_Game_2/)                          | Inheritance, Slicing                   | ⬜     |
 | 022 | [Pong Game](./Day022_Pong_Game/)                                     | OOP Consolidation                      | ⬜     |
